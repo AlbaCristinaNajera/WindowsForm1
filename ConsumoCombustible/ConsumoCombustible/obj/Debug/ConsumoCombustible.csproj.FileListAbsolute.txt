@@ -1,0 +1,10 @@
+C:\Users\50246\Desktop\Entrega Windows Form1\ConsumoCombustible\ConsumoCombustible\bin\Debug\ConsumoCombustible.exe.config
+C:\Users\50246\Desktop\Entrega Windows Form1\ConsumoCombustible\ConsumoCombustible\bin\Debug\ConsumoCombustible.exe
+C:\Users\50246\Desktop\Entrega Windows Form1\ConsumoCombustible\ConsumoCombustible\bin\Debug\ConsumoCombustible.pdb
+C:\Users\50246\Desktop\Entrega Windows Form1\ConsumoCombustible\ConsumoCombustible\obj\Debug\ConsumoCombustible.csproj.AssemblyReference.cache
+C:\Users\50246\Desktop\Entrega Windows Form1\ConsumoCombustible\ConsumoCombustible\obj\Debug\ConsumoCombustible.Form1.resources
+C:\Users\50246\Desktop\Entrega Windows Form1\ConsumoCombustible\ConsumoCombustible\obj\Debug\ConsumoCombustible.Properties.Resources.resources
+C:\Users\50246\Desktop\Entrega Windows Form1\ConsumoCombustible\ConsumoCombustible\obj\Debug\ConsumoCombustible.csproj.GenerateResource.cache
+C:\Users\50246\Desktop\Entrega Windows Form1\ConsumoCombustible\ConsumoCombustible\obj\Debug\ConsumoCombustible.csproj.CoreCompileInputs.cache
+C:\Users\50246\Desktop\Entrega Windows Form1\ConsumoCombustible\ConsumoCombustible\obj\Debug\ConsumoCombustible.exe
+C:\Users\50246\Desktop\Entrega Windows Form1\ConsumoCombustible\ConsumoCombustible\obj\Debug\ConsumoCombustible.pdb

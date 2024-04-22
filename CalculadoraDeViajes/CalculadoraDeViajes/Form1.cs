@@ -20,11 +20,13 @@ namespace CalculadoraDeViajes
 
         private void btnCalcular_Click(object sender, EventArgs e)
         {
-            double velocidad= int.Parse(txtVelocidad.Text.ToString());
-            double distancia = 100;
-            double tiempoEstimado = distancia / velocidad;
+            double puntoOrigen = double.Parse(txtOrigen.Text.ToString());
+            double puntoDestino = double.Parse(txtDestino.Text.ToString());
+            double velocidad= double.Parse(txtVelocidad.Text.ToString());
+            double tiempoEstimado = Math.Abs(puntoDestino-puntoOrigen) / velocidad;
 
             MessageBox.Show($"El tiempo estimado de viaje de {txtOrigen.Text} a {txtDestino.Text} es de aproximadamente {tiempoEstimado:N2} horas.", "Tiempo Estimado de Viaje");
         }
+
     }
 }
